@@ -1,4 +1,4 @@
 # AndroidPermissionsUsage
 
-~Build in progress~
+*Work in progress*
 
