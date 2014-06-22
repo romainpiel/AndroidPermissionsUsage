@@ -1,8 +1,8 @@
 <idea-plugin version="2">
-  <id>com.romainpiel.androidpermissionsusage</id>
-  <name>Android Permissions Usage</name>
-  <version>1.0</version>
-  <vendor email="contact@romainpiel.com" url="http://www.romainpiel.com">Romain Piel</vendor>
+    <id>com.romainpiel.androidpermissionsusage</id>
+    <name>Android Permissions Usage</name>
+    <version>1.0</version>
+    <vendor email="contact@romainpiel.com" url="http://www.romainpiel.com">Romain Piel</vendor>
 
   <description><![CDATA[
       Enter short description for your plugin here.<br>
@@ -37,11 +37,8 @@
   </project-components>
 
   <actions>
-      <action id="AndroidPermissions.FindUsage.Permissions" class="com.romainpiel.androidpermissionsusage.FindPermissionsUsageAction">
-          <!--<add-to-group group-id="EditorPopupMenu"/>-->
+      <action id="AndroidPermissions.FindUsage" class="com.romainpiel.androidpermissionsusage.FindPermissionsUsageAction">
           <add-to-group group-id="ProjectViewPopupMenu"/>
-          <!--<add-to-group group-id="EditorTabPopupMenu"/>-->
-          <!--<add-to-group group-id="ConsoleEditorPopupMenu"/>-->
       </action>
   </actions>
 
