@@ -2,16 +2,15 @@
     <id>com.romainpiel.androidpermissionsusage</id>
     <name>Android Permissions Usage</name>
     <version>1.0</version>
-    <vendor email="contact@romainpiel.com" url="http://www.romainpiel.com">Romain Piel</vendor>
+    <vendor email="contact@romainpiel.com" url="https://github.com/RomainPiel/AndroidPermissionsUsage">Romain Piel</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      IntelliJ IDEA Plugin for Android to find the usages of your the permission declared by your app.<br>
+      Note that this doesn't do perfectly what it should do. See the <a href="https://github.com/RomainPiel/AndroidPermissionsUsage/blob/master/README.md">README</a> for more information.
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+
     ]]>
   </change-notes>
 
